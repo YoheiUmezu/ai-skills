@@ -4,9 +4,9 @@
 
 ## Files
 
-- `staffbase-analytics.skill`
-- `staffbase-rfp.skill`
+- `staffbase-analytics/SKILL.md`
+- `staffbase-rfp/SKILL.md`
 
 ## Usage
 
-必要に応じて `.skill` ファイルを追加・更新し、コミットして運用してください。
+運用時は各フォルダ内の `SKILL.md` を直接編集し、コミットして管理してください。
